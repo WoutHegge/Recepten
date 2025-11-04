@@ -1,2 +1,2 @@
-Dit is een voorbeeld van een git-repository met recepten.
-We gebruiken deze in de lessen 4999 Informatiemanagement (KU Leuven campus Diepenbeek)
+Dit is een Git-repository met recepten.
+Geschreven door Wout Hegge
